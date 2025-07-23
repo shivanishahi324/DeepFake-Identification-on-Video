@@ -58,7 +58,7 @@ https://huggingface.co/spaces/shivanishahi324/resnext101-deepfake
 ## Screenshots
 
 ### 1. Initial Interface
-![Interface](assets/interface.jpg)
+![Interface](assets/userinterface.jpg)
 
 ### 2. Prediction Output – Fake
 ![Fake Prediction](assets/fake.jpg)

@@ -65,6 +65,7 @@ https://huggingface.co/spaces/shivanishahi324/resnext101-deepfake
 
 ### 3. Prediction Output – Real
 ![Real Prediction](assets/real.jpg)
+
 =======
 # DeepFake-Identification-on-Video
 >>>>>>> 526903e28192cf227c45cfa78ffd811b1c32f726
